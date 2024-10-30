@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RedBallScene.unity
     guid: 2aaadd92a7357e841985dc778ca80252
+  - enabled: 1
+    path: Assets/Scenes/Example.unity
+    guid: 44d7c2db013ffcb44b6b675ceef736fa
   m_configObjects: {}
